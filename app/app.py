@@ -57,7 +57,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 def main():
-    st.markdown("<div class='main-container'>", unsafe_allow_html=True)
     st.title("Obesity Risk Prediction")
     st.write("Complete the form to get your prediction")
 
