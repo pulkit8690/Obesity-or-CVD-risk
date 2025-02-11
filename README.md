@@ -1,6 +1,6 @@
 # Obesity & CVD Risk Prediction
 
-![App Banner](Images/banner.png)
+![App Banner](Images/img1.png)
 
 🚀 **Live App:** [Obesity & CVD Risk Prediction](https://obesity-cvd-risk-prediction.streamlit.app/)
 
